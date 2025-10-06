@@ -30,7 +30,7 @@ Optionally, click the swap icon to reverse currencies.
 
 🚀 Getting Started
 Clone the repository
-git clone https://github.com/Shiva-005/Currency_Converter.git
+git clone [https://github.com/Shiva-005/Currency_Converter.git](https://github.com/Shiva-005/Currency_Convertor)
 
 Open the project
 
