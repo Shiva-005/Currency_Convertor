@@ -21,13 +21,13 @@ JavaScript (ES6)	     Logic for fetching exchange rates and DOM manipulation API
 📁 Project Structure
 Currency-Converter/
 │
-├── index.html          # Main HTML file  
-├── style.css           # Stylesheet for layout and design
+├── index.html          
+├── style.css          
 ├── js 
-|   ├── app.js              # Contains main logic for fetching converting  
-|   |__ code.js             # Includes country codes and currency mapping  
+|   ├── app.js             
+|   |__ code.js              
 |
-└── README.md           # Project documentation  
+└── README.md          
 
 ⚙️ How It Works
 
@@ -41,7 +41,7 @@ Optionally, click the swap icon to reverse currencies.
 
 🚀 Getting Started
 Clone the repository
-git clone https://github.com/yourusername/Currency-Converter.git
+git clone https://github.com/Shiva-005/Currency-Converter.git
 
 Open the project
 
