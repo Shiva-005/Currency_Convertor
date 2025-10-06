@@ -16,18 +16,7 @@ Component	                Description
 HTML5	                 Structure and layout of the app
 CSS3	                 Styling with gradients, shadows, and responsiveness
 JavaScript (ES6)	     Logic for fetching exchange rates and DOM manipulation API	Real-time currency exchange data source
-
-
-📁 Project Structure
-Currency-Converter/
-│
-├── index.html          
-├── style.css          
-├── js 
-|   ├── app.js             
-|   |__ code.js              
-|
-└── README.md          
+        
 
 ⚙️ How It Works
 
@@ -41,7 +30,7 @@ Optionally, click the swap icon to reverse currencies.
 
 🚀 Getting Started
 Clone the repository
-git clone https://github.com/Shiva-005/Currency-Converter.git
+git clone https://github.com/Shiva-005/Currency_Converter.git
 
 Open the project
 
